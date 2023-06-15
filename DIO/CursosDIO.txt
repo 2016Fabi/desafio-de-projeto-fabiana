@@ -1,0 +1,7 @@
+Cursos da DIO
+
+- Fortaleza dos CodeMiners sobre C
+- Videos pelo youtube da DIO do Felipe Aguiar:
+      iFood Dev Week | Dia 01: Seus Primeiros Componentes em Angular
+      iFood Dev Week | Dia 02: Estilizando Seu Projeto Angular
+      iFood Dev Week | Dia 03: Angular, Dando Um Passo Além

@@ -1,0 +1,5 @@
+Cursos da WhileTrue sobre Angular
+
+- Iniciante Em Programação Com TS - (Construindo App Explorador de Planetas)
+- Iniciante em Desenvolvimento de Apps - (Construindo aplicativo Ecommerce)
+- Salvando dados do aplicativo - (Consumindo uma API Rest), mais nao esta completo falta alguns modelos pra terminar
